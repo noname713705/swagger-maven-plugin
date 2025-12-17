@@ -61,7 +61,7 @@
         <sonatypeOssDistMgmtSnapshotsUrl>https://oss.sonatype.org/content/repositories/snapshots/</sonatypeOssDistMgmtSnapshotsUrl>
 
         <!-- Dependency versions -->
-        <maven.version>2.2.1</maven.version>
+        <maven.version>3.8.1</maven.version>
         <swagger.version>1.5.21</swagger.version>
         <jackson.version>2.12.7.1</jackson.version>
         <reload4j.version>1.2.20</reload4j.version>
